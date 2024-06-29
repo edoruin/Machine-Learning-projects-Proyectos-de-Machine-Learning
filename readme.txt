@@ -1,26 +1,37 @@
-**#Prediccion de salarios **
+# Predicción de salarios
 
-1. [Introducción](#Acerca de:)
+1. [Introducción](#acerca-de)
 2. [Instalación](#instalación)
-3. [Uso](#Uso)
----
-**#Acerca de:**
-###sobre el proyecto:
-En este proyecto cree un modelo de regresion lineal en R studios  para intentar predecir los salarios de los empleados de una empresa(ficticia)
-en base a las variables edad y experiencia. En este proyecto utilizo metricas y graficos para analizar la relacion entre las variables con la variable predictora,
-la relacion entre las variables entre si mismas(para saber si debo de considerar la multicolinealidad como un posible factor) y para analizar el desempeño del modelo 
-y el como las variables afectan al mismo. Utilice las metricas RMSE y R^2 para analizar la diferencia entre las predicciones y 
-los valores reales y saber que tan bien las variables independientes(edad, experiencia) explican la variabilidad de la variable dependiente(Salario)
+3. [Uso](#uso)
 
 ---
 
-#instalacion
+## Acerca de
 
-Para poder correr el codigo sin problemas solo hace falta ejecutar las lineas de codigo para instalar y utilizar las librerias y luego ir ejecutando el codigo.
+### Sobre el proyecto
+
+En este proyecto, creé un modelo de regresión lineal en R Studio para predecir los salarios de los empleados de una empresa ficticia basándome en las variables edad y experiencia. Utilicé métricas y gráficos para analizar:
+
+- La relación entre las variables predictoras y la variable de salario.
+- La relación entre las variables predictoras entre sí para evaluar la multicolinealidad.
+- El rendimiento del modelo y cómo las variables afectan su desempeño.
+
+Utilicé métricas como RMSE y R^2 para evaluar la precisión del modelo y entender cómo las variables explican la variabilidad en los salarios.
+
 ---
 
-#Uso
+## Instalación
 
-Para utilizarlo es necesario tener instalado R y Rstudios en tu computador, luego simplemente seria ir corriendo las lineas de codigo. 
+Para poder ejecutar el código sin problemas, simplemente instala las bibliotecas necesarias y ejecuta las líneas de código pertinentes.
 
-NOTA: el codigo se encuentra documentado para facilitar la comprension del lector del mismo.
+---
+
+## Uso
+
+Para utilizar este proyecto:
+
+1. Asegúrate de tener R y RStudio instalados en tu computadora.
+2. Ejecuta las líneas de código proporcionadas.
+
+**Nota:** El código está documentado para facilitar su comprensión.
+
