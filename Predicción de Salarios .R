@@ -1,3 +1,9 @@
+#installar librerias:
+
+install.packages('tidyverse')
+install.packages('caret')
+install.packages('ggplot2')
+
 #Primero, crearemos un dataframe con los datos de empleados:
 
 # Cargar paquetes necesarios
