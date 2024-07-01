@@ -62,7 +62,7 @@ pairs(empleados[,c('ciudad','edad')])  #se consigue encontrar una correlacion cu
 
 cor(empleados[,c('edad','experiencia','salario','ciudad')])  #tambien puedo mostrar las relaciones con una tabla con la funcion cor()
 #de nuevo demuestra que ciudad no tiene  una relacion con las demas variables
-#una correlacion en 0 es una correlacion nula
+#una correlacion en 0 es una correlacion debil, y si fuera totalmente 0 seria nula
 
 
 #RESUMEN:
