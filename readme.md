@@ -1,4 +1,4 @@
-### Cambiar al ingles: [Ingles](#https://github.com/edoruin/Machine-Learning-proyects-Proyectos-de-Machine-Learning/blob/main/readme.en.md)
+Cambiar al ingles: https://github.com/edoruin/Machine-Learning-proyects-Proyectos-de-Machine-Learning/blob/main/readme.en.md
 # Indice
 
 1. [Acerca de](#Acerca-de)
