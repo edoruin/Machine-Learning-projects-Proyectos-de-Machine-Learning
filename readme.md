@@ -1,8 +1,7 @@
 # Indice
 
 1. [Acerca de](#Acerca-de)
-2. [Introducción](#Introducción)
-3. [Predicción de Salarios](#Predicción-de-Salarios)
+2. [Predicción de Salarios](#Predicción-de-Salarios)
 
 ## Acerca de
 
