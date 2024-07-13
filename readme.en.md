@@ -1,4 +1,4 @@
-Change to spanish: https://github.com/edoruin/Machine-Learning-proyects-Proyectos-de-Machine-Learning/blob/main/readme.md
+Cambiar al español: https://github.com/edoruin/Machine-Learning-proyects-Proyectos-de-Machine-Learning/blob/main/readme.md
 
 # Index
 
