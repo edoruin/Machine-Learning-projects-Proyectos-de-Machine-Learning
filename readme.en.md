@@ -38,6 +38,6 @@ To use this project:
 1. Make sure you have R and RStudio installed on your computer.
 2. Run the provided lines of code.
 
-**Note:** The code is documented for easy understanding.
+**Note:** The code is documented for easy understanding(but there's in spanish).
 
 ---
