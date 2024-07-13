@@ -1,3 +1,5 @@
+###Change to spanish: [Spanish](#readme.md)
+
 # Index
 
 1. [About](#About)
@@ -36,6 +38,6 @@ To use this project:
 1. Make sure you have R and RStudio installed on your computer.
 2. Run the provided lines of code.
 
-**Note:** The code is documented for ease of understanding.
+**Note:** The code is documented for easy understanding.
 
 ---
