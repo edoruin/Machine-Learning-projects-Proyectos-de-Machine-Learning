@@ -2,7 +2,7 @@
 
 1. [Acerca de](#Acerca-de)
 2. [Introducción](#Introducción)
-3. [Predicción de Salarios](#Predicciónn-de-Salarios)
+3. [Predicción de Salarios](#Predicción-de-Salarios)
 
 ## Acerca de
 
