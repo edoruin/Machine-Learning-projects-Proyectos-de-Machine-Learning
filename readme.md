@@ -1,12 +1,18 @@
-# Predicción de salarios
+# Indice
 
-1. [Introducción](#acerca-de)
-2. [Instalación](#instalación)
-3. [Uso](#uso)
+1. [Acerca de](#Acerca-de)
+2. [Introducción](#Introducción)
+3. [Predicción de Salarios](#Predicciónn-de-Salarios)
+
+## Acerca de
+
+Este repositorio es una recopilación de proyectos basados en Machine Learning que he desarrollado a lo largo de mi trayectoria.
 
 ---
 
-## Acerca de
+# Proyectos 
+
+## Predicción de Salarios
 
 ### Sobre el proyecto
 
@@ -18,13 +24,11 @@ En este proyecto, creé un modelo de regresión lineal en R Studio para predecir
 
 Utilicé métricas como RMSE y R^2 para evaluar la precisión del modelo y entender cómo las variables explican la variabilidad en los salarios.
 
----
 
 ## Instalación
 
 Para poder ejecutar el código sin problemas, simplemente instala las bibliotecas necesarias y ejecuta las líneas de código pertinentes.
 
----
 
 ## Uso
 
@@ -34,4 +38,6 @@ Para utilizar este proyecto:
 2. Ejecuta las líneas de código proporcionadas.
 
 **Nota:** El código está documentado para facilitar su comprensión.
+
+---
 
