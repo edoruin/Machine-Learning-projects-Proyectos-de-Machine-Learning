@@ -1,4 +1,4 @@
-### Change to spanish: [Spanish](#readme.md)
+### Change to spanish: https://github.com/edoruin/Machine-Learning-proyects-Proyectos-de-Machine-Learning/blob/main/readme.md
 
 # Index
 
