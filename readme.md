@@ -13,7 +13,7 @@ Este repositorio es una recopilación de proyectos basados en Machine Learning q
 
 # Proyectos 
 
-## [Predicción de Salarios](#https://github.com/edoruin/Machine-Learning-projects-Proyectos-de-Machine-Learning/tree/main/Prediccion%20de%20Salarios)
+## [Predicción de Salarios](https://github.com/edoruin/Machine-Learning-projects-Proyectos-de-Machine-Learning/tree/main/Prediccion%20de%20Salarios)
 
 ### Sobre el proyecto
 
