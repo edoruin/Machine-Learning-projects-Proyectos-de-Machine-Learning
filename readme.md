@@ -9,6 +9,8 @@ Change to english: https://github.com/edoruin/Machine-Learning-proyects-Proyecto
 
 Este repositorio es una recopilación de proyectos basados en Machine Learning que he desarrollado a lo largo de mi trayectoria.
 
+<b>Nota: </b>  Cliquear en los encabezados de los proyectos para redirigirse.
+
 ---
 
 # Proyectos 
@@ -42,3 +44,15 @@ Para utilizar este proyecto:
 
 ---
 
+## [Predict Podcast Listening Time-Kaggle](https://github.com/edoruin/Machine-Learning-projects-Proyectos-de-Machine-Learning/blob/main/Binary%20Prediction%20Competition.ipynb)
+
+### Sobre el proyecto
+
+Primera competición de Kaggle en la que participo activamente. Esta basada en la inferencia climatica. Utilice seleccion de caracteristicas y algoritmos de boosting para obtener los resultados.
+
+## Instalación
+
+Puede acceder a el desde el archivo de github, redirigirlo a Kaggle e instalarlo desde alli si tiene interes en descargarlo
+
+## Uso
+Solo es necesario tener las librerias que se utilizan en el notebook. 
