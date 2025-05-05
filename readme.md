@@ -44,7 +44,7 @@ Para utilizar este proyecto:
 
 ---
 
-## [Predict Podcast Listening Time-Kaggle](https://github.com/edoruin/Machine-Learning-projects-Proyectos-de-Machine-Learning/blob/main/Binary%20Prediction%20Competition.ipynb)
+## [Binary Prediction with a Rainfall Dataset](https://github.com/edoruin/Machine-Learning-projects-Proyectos-de-Machine-Learning/blob/main/Binary%20Prediction%20Competition.ipynb)
 
 ### Sobre el proyecto
 
